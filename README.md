@@ -6,5 +6,5 @@ Welcome to my repository. here is a bit information about me. if you have any qu
 - 🌱 I’m currently learning Network Protocols.
 - 👯 I’m looking to collaborate on python open source projects.
 - 🤔 I’m looking for help with offensive tooling ideas.
-- 📫 How to reach me: [![Twitter Badge](https://img.shields.io/badge/-@NtAlexio2-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NtAlexio2)](https://twitter.com/NtAlexio2) 
+- 📫 How to reach me: [![Twitter Badge](https://img.shields.io/badge/-@NtAlexio2-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NtAlexio2)](https://twitter.com/NtAlexio2) [![Keybase Badge](https://img.shields.io/keybase/pgp/ntalexio2?style=flat&logo=keybase&logoColor=white&link=https://keybase.io/ntalexio2)](https://keybase.io/ntalexio2) 
 - ⚡ Fun fact: Healty food is better than pizza!
