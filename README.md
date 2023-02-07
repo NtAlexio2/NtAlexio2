@@ -11,4 +11,4 @@ Welcome to my repository. Here is a bit information about me. If you have any qu
 - 👯 I’m looking to collaborate on python open source projects.
 - 🤔 I’m looking for help with offensive tooling ideas.
 - 📫 How to reach me: ntalexio2@gmail.com
-- ⚡ Fun fact: Healty food is better than pizza!
+- ⚡ Fun fact: I love bytes <3
