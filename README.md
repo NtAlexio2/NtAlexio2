@@ -8,6 +8,6 @@ Welcome to my repository. Here is a bit information about me. If you have any qu
 
 - 🔭 I’m currently working on [**Metasploit**](https://github.com/rapid7/metasploit-framework) project
 - 🌱 I’m currently learning Windows Internals.
-- 👯 I’m looking to collaborate on python open source projects.
+- 👯 I’m looking for collaborate on python open source projects.
 - 🤔 I’m looking for help with offensive tooling ideas.
 - 📫 How to reach me: ntalexio2@gmail.com
