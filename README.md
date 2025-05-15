@@ -1,13 +1,48 @@
-### Hi I'm Alex Romero 👋
+# 👋 Hi, I'm Alex Romero (aka Packet Phantom)
 
-Welcome to my repository. Here is a bit information about me. If you have any question, feel free to ping me!
+Welcome to my GitHub profile! I'm a cybersecurity enthusiast and offensive security developer with a passion for network protocols and low-level systems programming. I enjoy exploring the intricacies of digital systems, contributing to open-source projects, and developing tools that enhance security research.
 
-:mailbox: Reach me out!
+## 🧰 Skills & Interests
 
-[![Twitter Badge](https://img.shields.io/badge/-@NtAlexio2-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NtAlexio2)](https://twitter.com/NtAlexio2) [![Mail Badge](https://img.shields.io/badge/-ntalexio2-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ntalexio2@gmail.com) [![Keybase Badge](https://img.shields.io/keybase/pgp/ntalexio2?style=flat&logo=keybase&logoColor=white&link=https://keybase.io/ntalexio2)](https://keybase.io/ntalexio2) 
+- **Offensive Security Development**: Crafting tools and exploits to assess and improve system security.
+- **Network Protocols**: Deep understanding of protocols like SMB, LDAP, Kerberos, and Netlogon.
+- **Reverse Engineering**: Analyzing binaries and systems to understand their inner workings.
+- **Open-Source Contribution**: Active contributor to projects like Impacket and Metasploit Framework.
 
-- 🔭 I’m currently working on [**Metasploit**](https://github.com/rapid7/metasploit-framework) project
-- 🌱 I’m currently learning Machine Learning.
-- 👯 I’m looking for collaborate on python open source projects.
-- 🤔 I’m looking for help with offensive tooling ideas.
-- 📫 How to reach me: ntalexio2@gmail.com
+## 🛠️ Notable Contributions
+
+### [Metasploit Framework](https://github.com/rapid7/metasploit-framework)
+
+- Contributed to the development and enhancement of payloads and modules, focusing on expanding the framework's capabilities in penetration testing and exploit development.
+- Contributed to the [Mettle](https://github.com/rapid7/mettle) payload, improving cross-platform capabilities and adding low-level features to support advanced post-exploitation tasks.
+
+### [Impacket](https://github.com/fortra/impacket)
+
+- **`net.py` Script**: Developed a Python script that emulates the Windows `net` command, enabling remote user and group management via the SAMR protocol. This tool enhances the capabilities of security professionals in managing and auditing Windows environments.
+
+- **`eventlog.py` Script**: Developed a Python script that allows you to clear/export specific windows eventlog channel on a remote host.
+
+- **`dumpntlminfo.py` Tool**: Developed a script to extract NTLM authentication negotiation details from remote hosts without requiring credentials. Focused on SMB protocols (1/2/3), it utilizes custom classes based on SMBConnection to access information not exposed in standard responses—such as dialect version, signing options, maximum SMB request size, and server time details. The tool also reports server boot time when available, aiding in passive network reconnaissance.
+
+### [OWASP SKF](https://github.com/Security-Knowledge-Framework)
+
+- Developed a series of vulnerable labs as part of the OWASP Security Knowledge Framework (SKF) to demonstrate real-world web application security issues using Flask. These labs help developers and security professionals learn secure coding practices through hands-on, practical examples.
+
+## 📌 Pinned Projects
+
+- [Metasploit Framework](https://github.com/rapid7/metasploit-framework): A comprehensive platform for developing, testing, and executing exploits.
+
+- [Impacket](https://github.com/fortra/impacket): A collection of Python classes for working with network protocols, essential for crafting custom network tools and exploits.
+
+- [skf-flask](https://github.com/blabla1337/skf-flask): This project is designed for hands-on learning of web vulnerabilities and secure coding practices, making it valuable for both security training and tool testing.
+
+## 🌐 Online Presence
+
+- **GitHub**: [NtAlexio2](https://github.com/NtAlexio2)
+- **X (Twitter)**: [@NtAlexio2](https://x.com/ntalexio2)
+- **Website**: [ntalexio2.github.io](https://ntalexio2.github.io)
+
+Feel free to connect or reach out if you're interested in collaboration or discussions related to cybersecurity, open-source development, or network protocols!
+
+---
+
