@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a cybersecurity enthusiast and offensive secur
 
 - **`net.py` Script**: Developed a Python script that emulates the Windows `net` command, enabling remote user and group management via the SAMR protocol. This tool enhances the capabilities of security professionals in managing and auditing Windows environments.
 
-- **`eventlog.py` Script**: Developed a Python script that allows you to clear/export specific windows eventlog channel on a remote host.
+- **`eventlog.py` Script**: Developed a Python script enabling remote clearing and exporting of specific Windows Event Log channels, facilitating efficient log management and analysis across networked systems.
 
 - **`dumpntlminfo.py` Tool**: Developed a script to extract NTLM authentication negotiation details from remote hosts without requiring credentials. Focused on SMB protocols (1/2/3), it utilizes custom classes based on SMBConnection to access information not exposed in standard responses—such as dialect version, signing options, maximum SMB request size, and server time details. The tool also reports server boot time when available, aiding in passive network reconnaissance.
 
